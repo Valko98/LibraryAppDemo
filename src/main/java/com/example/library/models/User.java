@@ -1,3 +1,4 @@
+package com.example.library.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;
